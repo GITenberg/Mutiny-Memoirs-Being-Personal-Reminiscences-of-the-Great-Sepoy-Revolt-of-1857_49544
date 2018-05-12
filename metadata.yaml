@@ -1,10 +1,16 @@
 _repo: Mutiny-Memoirs-Being-Personal-Reminiscences-of-the-Great-Sepoy-Revolt-of-1857_49544
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49544-h/images/cover.jpg
 creator:
   author:
     agent_name: MacKenzie, A.R.D.
     gutenberg_agent_id: '45389'
     url: http://www.gutenberg.org/2009/agents/45389
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49544#Mutiny-Memoirs-Being-Personal-Reminiscences-of-the-Great-Sepoy-Revolt-of-1857
 gutenberg_issued: '2015-07-29'
 gutenberg_type: Text
 identifiers:
